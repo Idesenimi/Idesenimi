@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Idesenimi
+- 👋 Hi, I’m Nimi
 - 👀 I’m interested in Software development and cyber security 
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on projects 
