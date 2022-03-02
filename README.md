@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development and cyber security 
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 Reach me with my email davididese@gmail.com 
+- 📫 Reach me with my email Nimithedev@gmail.com 
 
 <!---
 Idesenimi/Idesenimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
