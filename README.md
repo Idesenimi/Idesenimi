@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nimi
-- 👀 I’m interested in Software development and cyber security
-- 💞️ I’m looking to collaborate on projects 
-- 📫 Reach me with my email davididese@gmail.com 
+- 👀 Welcome to my tiny space.
 
 <!---
 Idesenimi/Idesenimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
